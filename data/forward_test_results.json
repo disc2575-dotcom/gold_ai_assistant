@@ -1,0 +1,50 @@
+{
+  "D1": {
+    "backtest": {
+      "total": 11,
+      "wins": 6,
+      "losses": 5,
+      "open": 0,
+      "win_rate": 54.5,
+      "profit_factor": 2.04,
+      "total_pnl": 15.01,
+      "avg_win": 4.905,
+      "avg_loss": -2.884
+    },
+    "forward": {
+      "total": 2,
+      "wins": 2,
+      "losses": 0,
+      "open": 0,
+      "win_rate": 100.0,
+      "profit_factor": Infinity,
+      "total_pnl": 11.75,
+      "avg_win": 5.873,
+      "avg_loss": 0.0
+    }
+  },
+  "H4": {
+    "backtest": {
+      "total": 25,
+      "wins": 8,
+      "losses": 12,
+      "open": 5,
+      "win_rate": 32.0,
+      "profit_factor": 1.57,
+      "total_pnl": 9.94,
+      "avg_win": 3.44,
+      "avg_loss": -1.465
+    },
+    "forward": {
+      "total": 14,
+      "wins": 5,
+      "losses": 5,
+      "open": 4,
+      "win_rate": 35.7,
+      "profit_factor": 2.02,
+      "total_pnl": 6.24,
+      "avg_win": 2.478,
+      "avg_loss": -1.23
+    }
+  }
+}

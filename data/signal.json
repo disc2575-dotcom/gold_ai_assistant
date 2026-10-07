@@ -1,0 +1,141 @@
+{
+  "signal": "BULLISH",
+  "confidence": 90.0,
+  "bias": "bullish",
+  "bias_score": 1.0,
+  "consensus_ratio": 1.0,
+  "current_price": 4133.28,
+  "reasoning": [
+    "الاتجاه المرجّح: bullish (score: 1.00)",
+    "📰 أخبار إيجابية (score: 3) تدعم الاتجاه"
+  ],
+  "warnings": [],
+  "levels": {
+    "current_price": 4133.28,
+    "nearest_support": 4125.92,
+    "nearest_resistance": 4170.6,
+    "entry": 4133.28,
+    "stop_loss": 4120.92,
+    "targets": [
+      4145.64,
+      4158.0,
+      4170.36
+    ]
+  },
+  "zones": [
+    {
+      "type": "bearish_ob",
+      "label": "عرض (Bearish OB)",
+      "top": 4376.18,
+      "bottom": 4335.98,
+      "timestamp": "2026-09-10 13:00:00+00:00"
+    },
+    {
+      "type": "bullish_fvg",
+      "label": "طلب (Bullish FVG)",
+      "top": 4320.96,
+      "bottom": 4298.86,
+      "timestamp": "2026-09-16 05:00:00+00:00"
+    },
+    {
+      "type": "bearish_fvg",
+      "label": "عرض (Bearish FVG)",
+      "top": 4324.14,
+      "bottom": 4291.66,
+      "timestamp": "2026-09-16 21:00:00+00:00"
+    },
+    {
+      "type": "bearish_fvg",
+      "label": "عرض (Bearish FVG)",
+      "top": 4285.22,
+      "bottom": 4230.81,
+      "timestamp": "2026-09-28 01:00:00+00:00"
+    },
+    {
+      "type": "bearish_fvg",
+      "label": "عرض (Bearish FVG)",
+      "top": 4229.59,
+      "bottom": 4198.36,
+      "timestamp": "2026-09-28 05:00:00+00:00"
+    }
+  ],
+  "conditional_scenarios": [
+    {
+      "condition": "إذا كسر السعر 4170.6 صعوداً",
+      "action": "BUY",
+      "entry": 4170.6,
+      "stop_loss": 4150.6,
+      "targets": [
+        4190.6,
+        4210.6,
+        4230.6
+      ]
+    },
+    {
+      "condition": "إذا كسر السعر 4125.92 هبوطاً",
+      "action": "SELL",
+      "entry": 4125.92,
+      "stop_loss": 4145.92,
+      "targets": [
+        4105.92,
+        4085.92,
+        4065.92
+      ]
+    }
+  ],
+  "timeframes": {
+    "D1": {
+      "trend": "bullish",
+      "weight": 3.0,
+      "last_close": 4133.27618
+    },
+    "H4": {
+      "trend": "bullish",
+      "weight": 3.0,
+      "last_close": 4133.27618
+    }
+  },
+  "news_analysis": {
+    "sentiment": "bullish",
+    "score": 3,
+    "reasoning": "تظهر العناوين أن الذهب يتلقى دعمًا من ضعف بيانات الوظائف وتوقعات انخفاض معدلات الفائدة، بينما يوازن تأثير الدولار القوي والعوائد المرتفعة، مما يؤدي إلى استقرار أو ارتفاع طفيف في الأسعار.",
+    "key_topics": [
+      "قوة الدولار",
+      "محاضر الفيدرالي",
+      "عوائد السندات",
+      "تقارير الوظائف",
+      "أسعار النفط"
+    ],
+    "headlines": [
+      "انخفاض طفيف في الذهب مع ارتفاع الدولار؛ المستثمرون ينتظرون محضر اجتماع الاحتياطي الفيدرالي للحصول على إشارات حول الفائدة - رويترز",
+      "استقرار الذهب مع تعويض الدولار القوي والعوائد المرتفعة لتراجع توقعات رفع الفائدة من الاحتياطي الفيدرالي - سي إن بي سي",
+      "هل يرتفع الذهب عندما ترتفع أسعار الفائدة؟ - ميديوم",
+      "توقعات سعر الذهب: XAU/USD يترقب محضر اجتماع الاحتياطي الفيدرالي للحصول على دفعة جديدة بعد استقراره عند 4100 دولار - إف إكس ستريت",
+      "الذهب يحافظ على مكاسبه مع تعافي تدفقات النفط وتخفيف عوائد سندات الخزانة - ياهو فاينانس أستراليا",
+      "ارتفاع أسعار الذهب بعد تقرير وظائف سبتمبر الضعيف الذي يخفّف من توقعات رفع الفائدة من الاحتياطي الفيدرالي - كوار츠",
+      "استقرار الذهب مع تعويض الدولار القوي والعوائد المرتفعة لتراجع توقعات رفع الفائدة من الاحتياطي الفيدرالي - رويترز",
+      "استقرار الذهب مع تأثير الدولار القوي والعوائد على مسار الفائدة - بلومبرغ"
+    ],
+    "headlines_en": [
+      "Gold slips as dollar gains; investors await Fed minutes for rate clues - Reuters",
+      "Gold steady as stronger dollar and high yields offset waning Fed hike expectations - CNBC",
+      "Does Gold Go Up When Interest Rates Go Up? - Medium",
+      "Gold Price Forecast: XAU/USD eyes Fed Minutes for fresh impetus after holding $4,100 - FXStreet",
+      "Gold holds gains as oil flows recover, Treasury yields ease - Yahoo Finance Australia",
+      "Gold prices rise after weak September jobs report dims Fed rate hike - Quartz",
+      "Gold steady as stronger dollar and high yields offset waning Fed hike expectations - Reuters",
+      "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path - Bloomberg.com"
+    ],
+    "sources": [
+      "Reuters",
+      "CNBC",
+      "Medium",
+      "FXStreet",
+      "Yahoo Finance Australia",
+      "Quartz",
+      "Reuters",
+      "Bloomberg.com"
+    ]
+  },
+  "updated_at": "2026-10-07T09:33:44.284501"
+}

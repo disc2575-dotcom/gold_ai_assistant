@@ -1,0 +1,46 @@
+{
+  "D1": {
+    "total": 4,
+    "wins": 2,
+    "losses": 2,
+    "open": 0,
+    "win_rate": 50.0,
+    "profit_factor": 2.26,
+    "total_pnl": 5.43,
+    "avg_win": 4.876,
+    "avg_loss": -2.16
+  },
+  "H4": {
+    "total": 7,
+    "wins": 3,
+    "losses": 3,
+    "open": 1,
+    "win_rate": 42.9,
+    "profit_factor": 2.33,
+    "total_pnl": 6.97,
+    "avg_win": 4.071,
+    "avg_loss": -1.748
+  },
+  "H1": {
+    "total": 12,
+    "wins": 3,
+    "losses": 9,
+    "open": 0,
+    "win_rate": 25.0,
+    "profit_factor": 0.67,
+    "total_pnl": -2.11,
+    "avg_win": 1.448,
+    "avg_loss": -0.717
+  },
+  "M30": {
+    "total": 12,
+    "wins": 0,
+    "losses": 11,
+    "open": 1,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "total_pnl": -5.42,
+    "avg_win": 0.0,
+    "avg_loss": -0.492
+  }
+}

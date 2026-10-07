@@ -1,0 +1,119 @@
+{
+  "stats": {
+    "total": 8,
+    "wins": 3,
+    "losses": 5,
+    "open": 0,
+    "win_rate": 37.5,
+    "avg_win": 1.45,
+    "avg_loss": -0.944,
+    "profit_factor": 0.92,
+    "total_pnl_pct": -0.37
+  },
+  "trades": [
+    {
+      "bar": 260,
+      "timestamp": "2026-06-09 15:00:00+00:00",
+      "signal": "SELL",
+      "score": 7.0,
+      "reason": "SELL | Score: 7.0 | Trend + BOS + OB + FVG",
+      "entry": 4274.74,
+      "stop_loss": 4322.45,
+      "target": 4203.18,
+      "outcome": "win",
+      "exit_price": 4203.18,
+      "pnl_pct": 1.674
+    },
+    {
+      "bar": 480,
+      "timestamp": "2026-06-18 19:00:00+00:00",
+      "signal": "SELL",
+      "score": 7.0,
+      "reason": "SELL | Score: 7.0 | Trend + BOS + OB + FVG",
+      "entry": 4217.2,
+      "stop_loss": 4267.15,
+      "target": 4142.28,
+      "outcome": "win",
+      "exit_price": 4142.28,
+      "pnl_pct": 1.777
+    },
+    {
+      "bar": 1080,
+      "timestamp": "2026-07-13 19:00:00+00:00",
+      "signal": "SELL",
+      "score": 7.0,
+      "reason": "SELL | Score: 7.0 | Trend + BOS + OB + FVG",
+      "entry": 4001.92,
+      "stop_loss": 4048.56,
+      "target": 3931.96,
+      "outcome": "loss",
+      "exit_price": 4048.56,
+      "pnl_pct": -1.165
+    },
+    {
+      "bar": 1280,
+      "timestamp": "2026-07-22 03:00:00+00:00",
+      "signal": "BUY",
+      "score": 7.0,
+      "reason": "BUY | Score: 7.0 | Trend + BOS + OB + FVG",
+      "entry": 4131.36,
+      "stop_loss": 4099.63,
+      "target": 4178.96,
+      "outcome": "loss",
+      "exit_price": 4099.63,
+      "pnl_pct": -0.768
+    },
+    {
+      "bar": 1425,
+      "timestamp": "2026-07-28 04:00:00+00:00",
+      "signal": "SELL",
+      "score": 7.0,
+      "reason": "SELL | Score: 7.0 | Trend + BOS + FVG + Engulfing",
+      "entry": 4042.61,
+      "stop_loss": 4066.88,
+      "target": 4006.21,
+      "outcome": "win",
+      "exit_price": 4006.21,
+      "pnl_pct": 0.9
+    },
+    {
+      "bar": 1755,
+      "timestamp": "2026-08-10 22:00:00+00:00",
+      "signal": "BUY",
+      "score": 9.0,
+      "reason": "BUY | Score: 9.0 | Trend + BOS + OB + FVG + Engulfing",
+      "entry": 4399.52,
+      "stop_loss": 4364.73,
+      "target": 4451.7,
+      "outcome": "loss",
+      "exit_price": 4364.73,
+      "pnl_pct": -0.791
+    },
+    {
+      "bar": 2500,
+      "timestamp": "2026-09-10 23:00:00+00:00",
+      "signal": "SELL",
+      "score": 9.0,
+      "reason": "SELL | Score: 9.0 | Trend + BOS + OB + FVG + Engulfing",
+      "entry": 4314.3,
+      "stop_loss": 4365.12,
+      "target": 4238.08,
+      "outcome": "loss",
+      "exit_price": 4365.12,
+      "pnl_pct": -1.178
+    },
+    {
+      "bar": 2625,
+      "timestamp": "2026-09-16 04:00:00+00:00",
+      "signal": "BUY",
+      "score": 7.0,
+      "reason": "BUY | Score: 7.0 | Trend + BOS + OB + FVG",
+      "entry": 4322.35,
+      "stop_loss": 4286.93,
+      "target": 4375.48,
+      "outcome": "loss",
+      "exit_price": 4286.93,
+      "pnl_pct": -0.819
+    }
+  ]
+}

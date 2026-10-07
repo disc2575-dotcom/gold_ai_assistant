@@ -1,0 +1,836 @@
+{
+  "D1": {
+    "current_trend": "bearish",
+    "last_close": 4156.46018,
+    "last_timestamp": "2026-09-30 00:00:00+00:00",
+    "totals": {
+      "events": 34,
+      "fvgs": 46,
+      "order_blocks": 10,
+      "liquidity": 62
+    },
+    "events": [
+      {
+        "timestamp": "2026-05-19 00:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4503.72464
+      },
+      {
+        "timestamp": "2026-06-05 00:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4367.19364
+      },
+      {
+        "timestamp": "2026-08-05 00:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4119.46447
+      },
+      {
+        "timestamp": "2026-08-19 00:00:00+00:00",
+        "type": "BOS",
+        "direction": "bullish",
+        "level": 4449.78419
+      },
+      {
+        "timestamp": "2026-09-28 00:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4238.36569
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-06-25 00:00:00+00:00",
+        "type": "bearish",
+        "top": 4092.15534,
+        "bottom": 4044.57442,
+        "size": 47.58091999999988
+      },
+      {
+        "timestamp": "2026-08-06 00:00:00+00:00",
+        "type": "bullish",
+        "top": 4224.22648,
+        "bottom": 4105.94294,
+        "size": 118.28354000000036
+      },
+      {
+        "timestamp": "2026-08-22 00:00:00+00:00",
+        "type": "bullish",
+        "top": 4602.74522,
+        "bottom": 4544.49492,
+        "size": 58.2502999999997
+      },
+      {
+        "timestamp": "2026-08-29 00:00:00+00:00",
+        "type": "bearish",
+        "top": 4567.49602,
+        "bottom": 4459.0161,
+        "size": 108.47991999999977
+      },
+      {
+        "timestamp": "2026-09-29 00:00:00+00:00",
+        "type": "bearish",
+        "top": 4285.22455,
+        "bottom": 4184.8008,
+        "size": 100.42374999999993
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-01-08 00:00:00+00:00",
+        "type": "bullish_ob",
+        "top": 4466.13399,
+        "bottom": 4407.90536
+      },
+      {
+        "timestamp": "2026-04-24 00:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4742.65975,
+        "bottom": 4658.8598
+      },
+      {
+        "timestamp": "2026-05-18 00:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4584.42213,
+        "bottom": 4476.89916
+      },
+      {
+        "timestamp": "2026-06-04 00:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4515.79837,
+        "bottom": 4424.58298
+      },
+      {
+        "timestamp": "2026-08-18 00:00:00+00:00",
+        "type": "bullish_ob",
+        "top": 4435.5801,
+        "bottom": 4330.69161
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-07-17 00:00:00+00:00",
+        "type": "sell_side",
+        "level": 3961.80817
+      },
+      {
+        "timestamp": "2026-07-22 00:00:00+00:00",
+        "type": "buy_side",
+        "level": 4165.68194
+      },
+      {
+        "timestamp": "2026-07-29 00:00:00+00:00",
+        "type": "sell_side",
+        "level": 3996.32338
+      },
+      {
+        "timestamp": "2026-08-25 00:00:00+00:00",
+        "type": "buy_side",
+        "level": 4695.93801
+      },
+      {
+        "timestamp": "2026-09-16 00:00:00+00:00",
+        "type": "sell_side",
+        "level": 4238.36569
+      }
+    ]
+  },
+  "H4": {
+    "current_trend": "bearish",
+    "last_close": 4162.19112,
+    "last_timestamp": "2026-10-01 13:00:00+00:00",
+    "totals": {
+      "events": 71,
+      "fvgs": 88,
+      "order_blocks": 13,
+      "liquidity": 118
+    },
+    "events": [
+      {
+        "timestamp": "2026-09-10 17:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4341.97386
+      },
+      {
+        "timestamp": "2026-09-14 09:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4297.93269
+      },
+      {
+        "timestamp": "2026-09-17 09:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4355.11149
+      },
+      {
+        "timestamp": "2026-09-23 13:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4290.38053
+      },
+      {
+        "timestamp": "2026-09-27 21:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4254.77599
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-08-28 17:00:00+00:00",
+        "type": "bearish",
+        "top": 4589.64475,
+        "bottom": 4486.13358,
+        "size": 103.51117000000067
+      },
+      {
+        "timestamp": "2026-09-01 09:00:00+00:00",
+        "type": "bearish",
+        "top": 4425.65484,
+        "bottom": 4386.73451,
+        "size": 38.92032999999992
+      },
+      {
+        "timestamp": "2026-09-16 21:00:00+00:00",
+        "type": "bearish",
+        "top": 4324.13733,
+        "bottom": 4291.6613,
+        "size": 32.47602999999981
+      },
+      {
+        "timestamp": "2026-09-28 01:00:00+00:00",
+        "type": "bearish",
+        "top": 4285.22455,
+        "bottom": 4230.81176,
+        "size": 54.412790000000314
+      },
+      {
+        "timestamp": "2026-09-28 05:00:00+00:00",
+        "type": "bearish",
+        "top": 4229.59375,
+        "bottom": 4198.35872,
+        "size": 31.235029999999824
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-05-26 21:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4527.94941,
+        "bottom": 4498.62792
+      },
+      {
+        "timestamp": "2026-06-05 05:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4467.07764,
+        "bottom": 4426.34561
+      },
+      {
+        "timestamp": "2026-06-07 21:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4352.93606,
+        "bottom": 4309.97328
+      },
+      {
+        "timestamp": "2026-07-16 13:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4016.70951,
+        "bottom": 3975.98505
+      },
+      {
+        "timestamp": "2026-09-10 13:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4376.1761,
+        "bottom": 4335.98162
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-09-16 17:00:00+00:00",
+        "type": "sell_side",
+        "level": 4238.36569
+      },
+      {
+        "timestamp": "2026-09-24 13:00:00+00:00",
+        "type": "sell_side",
+        "level": 4243.31612
+      },
+      {
+        "timestamp": "2026-09-25 09:00:00+00:00",
+        "type": "buy_side",
+        "level": 4315.59598
+      },
+      {
+        "timestamp": "2026-09-27 21:00:00+00:00",
+        "type": "buy_side",
+        "level": 4287.40522
+      },
+      {
+        "timestamp": "2026-09-28 17:00:00+00:00",
+        "type": "sell_side",
+        "level": 4111.79963
+      }
+    ]
+  },
+  "H1": {
+    "current_trend": "bearish",
+    "last_close": 4168.21836,
+    "last_timestamp": "2026-10-01 17:00:00+00:00",
+    "totals": {
+      "events": 107,
+      "fvgs": 122,
+      "order_blocks": 23,
+      "liquidity": 112
+    },
+    "events": [
+      {
+        "timestamp": "2026-09-25 10:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4295.53265
+      },
+      {
+        "timestamp": "2026-09-28 00:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4254.77599
+      },
+      {
+        "timestamp": "2026-09-29 14:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4171.18545
+      },
+      {
+        "timestamp": "2026-09-30 06:00:00+00:00",
+        "type": "BOS",
+        "direction": "bullish",
+        "level": 4187.64029
+      },
+      {
+        "timestamp": "2026-09-30 15:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4165.62526
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-09-28 06:00:00+00:00",
+        "type": "bearish",
+        "top": 4195.56491,
+        "bottom": 4181.72827,
+        "size": 13.836640000000443
+      },
+      {
+        "timestamp": "2026-09-28 07:00:00+00:00",
+        "type": "bearish",
+        "top": 4180.25249,
+        "bottom": 4166.1459,
+        "size": 14.106589999999414
+      },
+      {
+        "timestamp": "2026-09-28 15:00:00+00:00",
+        "type": "bearish",
+        "top": 4138.04519,
+        "bottom": 4127.09258,
+        "size": 10.952609999999368
+      },
+      {
+        "timestamp": "2026-09-29 19:00:00+00:00",
+        "type": "bullish",
+        "top": 4167.99685,
+        "bottom": 4148.86114,
+        "size": 19.135710000000472
+      },
+      {
+        "timestamp": "2026-10-01 08:00:00+00:00",
+        "type": "bearish",
+        "top": 4180.60201,
+        "bottom": 4167.8823,
+        "size": 12.719709999999395
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-08-27 08:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4607.33947,
+        "bottom": 4595.37705
+      },
+      {
+        "timestamp": "2026-09-10 15:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4370.8204,
+        "bottom": 4353.50457
+      },
+      {
+        "timestamp": "2026-09-16 00:00:00+00:00",
+        "type": "bullish_ob",
+        "top": 4286.1429,
+        "bottom": 4275.87976
+      },
+      {
+        "timestamp": "2026-09-24 07:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4287.99899,
+        "bottom": 4275.14856
+      },
+      {
+        "timestamp": "2026-09-30 05:00:00+00:00",
+        "type": "bullish_ob",
+        "top": 4182.35048,
+        "bottom": 4165.62526
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-09-24 15:00:00+00:00",
+        "type": "sell_side",
+        "level": 4243.31612
+      },
+      {
+        "timestamp": "2026-09-24 16:00:00+00:00",
+        "type": "buy_side",
+        "level": 4287.61309
+      },
+      {
+        "timestamp": "2026-09-28 20:00:00+00:00",
+        "type": "sell_side",
+        "level": 4111.79963
+      },
+      {
+        "timestamp": "2026-09-29 18:00:00+00:00",
+        "type": "sell_side",
+        "level": 4139.77873
+      },
+      {
+        "timestamp": "2026-09-30 12:00:00+00:00",
+        "type": "buy_side",
+        "level": 4220.14543
+      }
+    ]
+  },
+  "M30": {
+    "current_trend": "bullish",
+    "last_close": 4173.43133,
+    "last_timestamp": "2026-10-01 18:00:00+00:00",
+    "totals": {
+      "events": 124,
+      "fvgs": 148,
+      "order_blocks": 27,
+      "liquidity": 115
+    },
+    "events": [
+      {
+        "timestamp": "2026-09-29 10:30:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4149.03328
+      },
+      {
+        "timestamp": "2026-09-30 06:30:00+00:00",
+        "type": "BOS",
+        "direction": "bullish",
+        "level": 4187.64029
+      },
+      {
+        "timestamp": "2026-09-30 14:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4176.21218
+      },
+      {
+        "timestamp": "2026-10-01 00:00:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4147.23455
+      },
+      {
+        "timestamp": "2026-10-01 03:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4161.81122
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-09-29 18:30:00+00:00",
+        "type": "bullish",
+        "top": 4162.33091,
+        "bottom": 4148.86114,
+        "size": 13.469769999999698
+      },
+      {
+        "timestamp": "2026-09-30 14:00:00+00:00",
+        "type": "bearish",
+        "top": 4191.49092,
+        "bottom": 4182.71349,
+        "size": 8.777430000000095
+      },
+      {
+        "timestamp": "2026-10-01 00:30:00+00:00",
+        "type": "bearish",
+        "top": 4153.6864,
+        "bottom": 4146.25787,
+        "size": 7.428529999999228
+      },
+      {
+        "timestamp": "2026-10-01 01:30:00+00:00",
+        "type": "bullish",
+        "top": 4158.22986,
+        "bottom": 4146.25787,
+        "size": 11.971990000000005
+      },
+      {
+        "timestamp": "2026-10-01 07:30:00+00:00",
+        "type": "bearish",
+        "top": 4180.60201,
+        "bottom": 4166.49306,
+        "size": 14.108949999999822
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-09-11 11:30:00+00:00",
+        "type": "bullish_ob",
+        "top": 4346.30484,
+        "bottom": 4324.20016
+      },
+      {
+        "timestamp": "2026-09-14 12:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4297.3786,
+        "bottom": 4284.38392
+      },
+      {
+        "timestamp": "2026-09-16 01:30:00+00:00",
+        "type": "bullish_ob",
+        "top": 4292.35426,
+        "bottom": 4281.00518
+      },
+      {
+        "timestamp": "2026-09-21 01:30:00+00:00",
+        "type": "bearish_ob",
+        "top": 4382.15946,
+        "bottom": 4374.45319
+      },
+      {
+        "timestamp": "2026-09-30 05:00:00+00:00",
+        "type": "bullish_ob",
+        "top": 4182.35048,
+        "bottom": 4165.62526
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-09-29 14:00:00+00:00",
+        "type": "buy_side",
+        "level": 4175.71405
+      },
+      {
+        "timestamp": "2026-09-29 23:30:00+00:00",
+        "type": "buy_side",
+        "level": 4187.19446
+      },
+      {
+        "timestamp": "2026-09-30 05:00:00+00:00",
+        "type": "sell_side",
+        "level": 4165.62526
+      },
+      {
+        "timestamp": "2026-09-30 12:30:00+00:00",
+        "type": "buy_side",
+        "level": 4220.14543
+      },
+      {
+        "timestamp": "2026-10-01 06:00:00+00:00",
+        "type": "buy_side",
+        "level": 4192.52149
+      }
+    ]
+  },
+  "M15": {
+    "current_trend": "bullish",
+    "last_close": 4178.02568,
+    "last_timestamp": "2026-10-01 18:30:00+00:00",
+    "totals": {
+      "events": 168,
+      "fvgs": 204,
+      "order_blocks": 29,
+      "liquidity": 110
+    },
+    "events": [
+      {
+        "timestamp": "2026-09-30 12:30:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4202.38696
+      },
+      {
+        "timestamp": "2026-09-30 14:15:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4176.21218
+      },
+      {
+        "timestamp": "2026-10-01 00:15:00+00:00",
+        "type": "BOS",
+        "direction": "bearish",
+        "level": 4147.23455
+      },
+      {
+        "timestamp": "2026-10-01 03:00:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4164.58437
+      },
+      {
+        "timestamp": "2026-10-01 18:30:00+00:00",
+        "type": "BOS",
+        "direction": "bullish",
+        "level": 4177.86451
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-10-01 04:00:00+00:00",
+        "type": "bullish",
+        "top": 4175.36534,
+        "bottom": 4169.71264,
+        "size": 5.65270000000055
+      },
+      {
+        "timestamp": "2026-10-01 07:30:00+00:00",
+        "type": "bearish",
+        "top": 4174.19594,
+        "bottom": 4165.10475,
+        "size": 9.091189999999187
+      },
+      {
+        "timestamp": "2026-10-01 10:30:00+00:00",
+        "type": "bullish",
+        "top": 4165.07728,
+        "bottom": 4158.39413,
+        "size": 6.683150000000751
+      },
+      {
+        "timestamp": "2026-10-01 10:45:00+00:00",
+        "type": "bullish",
+        "top": 4171.69827,
+        "bottom": 4166.39071,
+        "size": 5.307560000000194
+      },
+      {
+        "timestamp": "2026-10-01 11:45:00+00:00",
+        "type": "bullish",
+        "top": 4178.55938,
+        "bottom": 4172.92606,
+        "size": 5.633319999999912
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-09-18 04:15:00+00:00",
+        "type": "bullish_ob",
+        "top": 4360.60793,
+        "bottom": 4353.12554
+      },
+      {
+        "timestamp": "2026-09-22 07:00:00+00:00",
+        "type": "bearish_ob",
+        "top": 4322.96798,
+        "bottom": 4315.92577
+      },
+      {
+        "timestamp": "2026-09-22 17:15:00+00:00",
+        "type": "bullish_ob",
+        "top": 4340.65457,
+        "bottom": 4335.75798
+      },
+      {
+        "timestamp": "2026-09-23 13:15:00+00:00",
+        "type": "bearish_ob",
+        "top": 4312.01543,
+        "bottom": 4300.44028
+      },
+      {
+        "timestamp": "2026-09-29 13:45:00+00:00",
+        "type": "bullish_ob",
+        "top": 4163.19734,
+        "bottom": 4154.20405
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-09-30 08:30:00+00:00",
+        "type": "buy_side",
+        "level": 4202.38696
+      },
+      {
+        "timestamp": "2026-09-30 11:15:00+00:00",
+        "type": "sell_side",
+        "level": 4176.21218
+      },
+      {
+        "timestamp": "2026-09-30 12:45:00+00:00",
+        "type": "buy_side",
+        "level": 4220.14543
+      },
+      {
+        "timestamp": "2026-09-30 17:45:00+00:00",
+        "type": "sell_side",
+        "level": 4150.53465
+      },
+      {
+        "timestamp": "2026-10-01 06:15:00+00:00",
+        "type": "buy_side",
+        "level": 4192.52149
+      }
+    ]
+  },
+  "M5": {
+    "current_trend": "bullish",
+    "last_close": 4178.20185,
+    "last_timestamp": "2026-10-01 18:45:00+00:00",
+    "totals": {
+      "events": 168,
+      "fvgs": 201,
+      "order_blocks": 22,
+      "liquidity": 69
+    },
+    "events": [
+      {
+        "timestamp": "2026-10-01 06:40:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4185.48458
+      },
+      {
+        "timestamp": "2026-10-01 10:25:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4163.63376
+      },
+      {
+        "timestamp": "2026-10-01 11:40:00+00:00",
+        "type": "BOS",
+        "direction": "bullish",
+        "level": 4178.18397
+      },
+      {
+        "timestamp": "2026-10-01 13:10:00+00:00",
+        "type": "CHOCH",
+        "direction": "bearish",
+        "level": 4175.17883
+      },
+      {
+        "timestamp": "2026-10-01 16:05:00+00:00",
+        "type": "CHOCH",
+        "direction": "bullish",
+        "level": 4175.58645
+      }
+    ],
+    "fvgs": [
+      {
+        "timestamp": "2026-10-01 12:10:00+00:00",
+        "type": "bearish",
+        "top": 4182.27937,
+        "bottom": 4179.19515,
+        "size": 3.0842200000006414
+      },
+      {
+        "timestamp": "2026-10-01 12:35:00+00:00",
+        "type": "bullish",
+        "top": 4182.70035,
+        "bottom": 4178.63463,
+        "size": 4.0657200000005105
+      },
+      {
+        "timestamp": "2026-10-01 15:05:00+00:00",
+        "type": "bearish",
+        "top": 4161.17029,
+        "bottom": 4156.44846,
+        "size": 4.721830000000409
+      },
+      {
+        "timestamp": "2026-10-01 17:05:00+00:00",
+        "type": "bullish",
+        "top": 4165.44961,
+        "bottom": 4162.41464,
+        "size": 3.034969999999703
+      },
+      {
+        "timestamp": "2026-10-01 17:10:00+00:00",
+        "type": "bullish",
+        "top": 4171.18545,
+        "bottom": 4166.57813,
+        "size": 4.6073200000000725
+      }
+    ],
+    "order_blocks": [
+      {
+        "timestamp": "2026-09-29 01:15:00+00:00",
+        "type": "bullish_ob",
+        "top": 4129.45316,
+        "bottom": 4117.42908
+      },
+      {
+        "timestamp": "2026-09-29 20:25:00+00:00",
+        "type": "bullish_ob",
+        "top": 4175.91298,
+        "bottom": 4173.1109
+      },
+      {
+        "timestamp": "2026-09-30 08:25:00+00:00",
+        "type": "bullish_ob",
+        "top": 4201.51999,
+        "bottom": 4198.50533
+      },
+      {
+        "timestamp": "2026-09-30 10:55:00+00:00",
+        "type": "bearish_ob",
+        "top": 4185.85182,
+        "bottom": 4182.0482
+      },
+      {
+        "timestamp": "2026-10-01 02:55:00+00:00",
+        "type": "bullish_ob",
+        "top": 4162.70875,
+        "bottom": 4158.55458
+      }
+    ],
+    "liquidity": [
+      {
+        "timestamp": "2026-09-30 10:25:00+00:00",
+        "type": "buy_side",
+        "level": 4192.52149
+      },
+      {
+        "timestamp": "2026-09-30 12:45:00+00:00",
+        "type": "buy_side",
+        "level": 4220.14543
+      },
+      {
+        "timestamp": "2026-09-30 15:25:00+00:00",
+        "type": "sell_side",
+        "level": 4159.55807
+      },
+      {
+        "timestamp": "2026-09-30 18:30:00+00:00",
+        "type": "buy_side",
+        "level": 4156.92854
+      },
+      {
+        "timestamp": "2026-10-01 08:40:00+00:00",
+        "type": "sell_side",
+        "level": 4150.53465
+      }
+    ]
+  }
+}
